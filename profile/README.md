@@ -1,12 +1,21 @@
-## Hi there 👋
+# Welcome to jimmy's org
+****
+Hi, my name is Liyuxuan. I was born in a small town in Hubei.
 
-<!--
+This is a photo of me.  
 
-**Here are some ideas to get you started:**
+<img src = "../img/Me.jpg" alt = "myself" width = 30% height = 30% />
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+My favorite thing is car
+
+<img src = "../img/Car.JPG" alt = "myself" width = 30% height = 30% />
+
+My favorite celebrity is Brad Pitt
+
+<img src = "../img/Brad.jpg.jpeg" alt = "myself" width = 30% height = 30% />
+
+And my favorite movie is Manchester by the sea
+
+<img src = "../img/manchester.jpeg" alt = "myself" width = 30% height = 30% />
+
+
